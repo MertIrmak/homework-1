@@ -34,3 +34,6 @@ If the input is 9, the output will be:
 ```9 is a Neon Number.```
 If the input is 12, the output will be:
 ```12 is not a Neon Number.```
+
+Author ✍️
+Mert Irmak
