@@ -1,12 +1,24 @@
-# Neon Number Checker
+# Neon Number Checker 🔢  
 
-This is a simple Java program to check whether a given number is a Neon number.
+This is a simple Java program to check whether a given number is a **Neon Number**.  
 
-## How to Run
+## What is a Neon Number? 🤔  
+A **Neon Number** is a number whose sum of digits of its square is equal to the original number.  
 
-1. Clone the repository to your local machine:
+For example:  
+- **9 is a Neon Number**  
+  - \( 9^2 = 81 \)  
+  - \( 8 + 1 = 9 \) ✅ (Equal to original number)  
+
+- **12 is NOT a Neon Number**  
+  - \( 12^2 = 144 \)  
+  - \( 1 + 4 + 4 = 9 \) ❌ (Not equal to original number)  
+
+## How to Run 🚀  
+1. **Clone the repository** to your local machine:  
    ```bash
    git clone https://github.com/MertIrmak/homework-1.git
+   
 2. Navigate to the project directory:
     ```
     cd homework-1
